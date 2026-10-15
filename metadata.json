@@ -1,0 +1,6 @@
+{
+  "name": "AniRank Studio - 5-Category Anime Tier & Score Index",
+  "description": "Rank and auto-filter your watched anime across 5 core categories (Art Style, Story, Character Development, Soundtrack, Animation) with fan service indicators and custom genre markers like Isekai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
